@@ -1,0 +1,3 @@
+mount part 3 9
+write hello [world]
+write good [stuff]

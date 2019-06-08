@@ -1,0 +1,7 @@
+run prog1.txt
+exec prog1.txt prog2.txt prog3.txt
+help
+set x 9
+set x mary
+print y
+print x

@@ -1,0 +1,3 @@
+set adsd asdj
+print adsd
+

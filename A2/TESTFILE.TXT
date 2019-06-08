@@ -1,0 +1,10 @@
+exec prog1.txt prog2.txt prog3.txt
+help
+set x 9
+set x 8
+set x mary
+print y
+make file
+print x
+quit me
+quit

@@ -1,0 +1,4 @@
+set x 8
+set x 3
+print y
+print x

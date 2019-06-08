@@ -1,0 +1,7 @@
+help
+set x 10
+set y mary
+set x bob
+print x
+print y
+quit
